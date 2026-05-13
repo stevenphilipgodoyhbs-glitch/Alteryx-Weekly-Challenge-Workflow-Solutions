@@ -1,0 +1,877 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx
+Query=`Form responses 1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Timestamp" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="DateTime" />
+            <Field name="In compliance with the Data Privacy Act of 2012 (Republic Act No. 10173), your personal data will be handled securely and will not be shared without your consent. In terms of your rights as a data subject, you can visit https://privacy.gov.ph/ for any add" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name="Age" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="Double" />
+            <Field name="Sex" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name="Monthly Allowance/Income Range:" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I currently use or have use a Buy Now, Pay Later (BNPL) service (e.g., BillEase, Akulaku, SPayLater, Lazada installments).]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I use BNPL to purchase items that I cannot afford to pay for in full at the time of purchase.]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I use BNPL for non-essential or lifestyle purchases (e.g., gadgets, clothing, food delivery).]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I sometimes worry about overspending when using BNPL.]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [BNPL encourages me to buy products even if I am not fully prepared financially. ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [BNPL improves my ability to manage short-term financial needs. ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I feel more confident to purchase items when BNPL is available]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I am aware of the financial risks (e.g., overspending, debt) associated with BNPL services ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [BNPL services are accessible through online shopping platforms]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I find it difficult to keep track of multiple BNPL payment due dates across different platforms.]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [Using BNPL reduces the amount of money I have available for my future expenses (e.g., savings, bills). ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I have experienced financial stress or pressure due to upcoming BNPL payment obligation ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I am aware of the fees or penalties associated with late BNPL payments.]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [I prefer using BNPL over other payment methods such as credit cards or cash. ]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+            <Field name=" [Using BNPL makes me more likely to buy higher-priced items.]" size="255" source="File: C:\Users\HUAWEI\Downloads\EFFECTS OF BUY NOW AND PAY LATER ON YOUNG ADULTS’ FUTURE AND PRESENT CASHFLOW (Responses) (1).xlsx|||`Form responses 1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="270" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\HUAWEI\AppData\Local\Temp\Alteryx\Engine_13368_8c9db3fe05a548b2a5133abf8149fb32_\Engine_5804_ff935deda1ee4261a39ed1f6cb351d78_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="366" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Skip</Mode>
+          <N>6</N>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Skip 1st 6 rows</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="486" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="In compliance with the Data Privacy Act of 2012 (Republic Act No. 10173), your personal data will be handled securely and will not be shared without your consent. In terms of your rights as a data subject, you can visit https://privacy.gov.ph/ for any add" />
+            <Field name=" [I currently use or have use a Buy Now, Pay Later (BNPL) service (e.g., BillEase, Akulaku, SPayLater, Lazada installments).]" />
+            <Field name=" [I use BNPL to purchase items that I cannot afford to pay for in full at the time of purchase.]" />
+            <Field name=" [I use BNPL for non-essential or lifestyle purchases (e.g., gadgets, clothing, food delivery).]" />
+            <Field name=" [I sometimes worry about overspending when using BNPL.]" />
+            <Field name=" [BNPL encourages me to buy products even if I am not fully prepared financially. ]" />
+            <Field name=" [BNPL improves my ability to manage short-term financial needs. ]" />
+            <Field name=" [I feel more confident to purchase items when BNPL is available]" />
+            <Field name=" [I am aware of the financial risks (e.g., overspending, debt) associated with BNPL services ]" />
+            <Field name=" [BNPL services are accessible through online shopping platforms]" />
+            <Field name=" [I find it difficult to keep track of multiple BNPL payment due dates across different platforms.]" />
+            <Field name=" [Using BNPL reduces the amount of money I have available for my future expenses (e.g., savings, bills). ]" />
+            <Field name=" [I have experienced financial stress or pressure due to upcoming BNPL payment obligation ]" />
+            <Field name=" [I am aware of the fees or penalties associated with late BNPL payments.]" />
+            <Field name=" [I prefer using BNPL over other payment methods such as credit cards or cash. ]" />
+            <Field name=" [Using BNPL makes me more likely to buy higher-priced items.]" />
+            <Field name="*Unknown" />
+            <Field name="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." selected="False" />
+            <Field name="Sex" selected="False" />
+            <Field name="Monthly Allowance/Income Range:" selected="False" />
+          </Fields>
+          <NewFieldAddOn>New_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>ToNumber(Left([_CurrentField_], 1))</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Double" size="8" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ToNumber(Left([_CurrentField_], 1))</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="606" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Timestamp" selected="False" />
+            <SelectField field="In compliance with the Data Privacy Act of 2012 (Republic Act No. 10173), your personal data will be handled securely and will not be shared without your consent. In terms of your rights as a data subject, you can visit https://privacy.gov.ph/ for any add" selected="False" />
+            <SelectField field=" [I currently use or have use a Buy Now, Pay Later (BNPL) service (e.g., BillEase, Akulaku, SPayLater, Lazada installments).]" selected="False" />
+            <SelectField field=" [I use BNPL to purchase items that I cannot afford to pay for in full at the time of purchase.]" selected="False" />
+            <SelectField field=" [I use BNPL for non-essential or lifestyle purchases (e.g., gadgets, clothing, food delivery).]" selected="False" />
+            <SelectField field=" [I sometimes worry about overspending when using BNPL.]" selected="False" />
+            <SelectField field=" [BNPL encourages me to buy products even if I am not fully prepared financially. ]" selected="False" />
+            <SelectField field=" [BNPL improves my ability to manage short-term financial needs. ]" selected="False" />
+            <SelectField field=" [I feel more confident to purchase items when BNPL is available]" selected="False" />
+            <SelectField field=" [I am aware of the financial risks (e.g., overspending, debt) associated with BNPL services ]" selected="False" />
+            <SelectField field=" [BNPL services are accessible through online shopping platforms]" selected="False" />
+            <SelectField field=" [I find it difficult to keep track of multiple BNPL payment due dates across different platforms.]" selected="False" />
+            <SelectField field=" [Using BNPL reduces the amount of money I have available for my future expenses (e.g., savings, bills). ]" selected="False" />
+            <SelectField field=" [I have experienced financial stress or pressure due to upcoming BNPL payment obligation ]" selected="False" />
+            <SelectField field=" [I am aware of the fees or penalties associated with late BNPL payments.]" selected="False" />
+            <SelectField field=" [I prefer using BNPL over other payment methods such as credit cards or cash. ]" selected="False" />
+            <SelectField field=" [Using BNPL makes me more likely to buy higher-priced items.]" selected="False" />
+            <SelectField field="New_In compliance with the Data Privacy Act of 2012 (Republic Act No. 10173), your personal data will be handled securely and will not be shared without your consent. In terms of your rights as a data subject, you can visit https://privacy.gov.ph/ for any" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="798" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Respondent ID" />
+            <Field field="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." />
+            <Field field="Age" />
+            <Field field="Sex" />
+            <Field field="Monthly Allowance/Income Range:" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Respondent ID" selected="False" />
+            <Field field="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." selected="False" />
+            <Field field="Age" selected="False" />
+            <Field field="Sex" selected="False" />
+            <Field field="Monthly Allowance/Income Range:" selected="False" />
+            <Field field="New_ [I currently use or have use a Buy Now, Pay Later (BNPL) service (e.g., BillEase, Akulaku, SPayLater, Lazada installments).]" selected="True" />
+            <Field field="New_ [I use BNPL to purchase items that I cannot afford to pay for in full at the time of purchase.]" selected="True" />
+            <Field field="New_ [I use BNPL for non-essential or lifestyle purchases (e.g., gadgets, clothing, food delivery).]" selected="True" />
+            <Field field="New_ [I sometimes worry about overspending when using BNPL.]" selected="True" />
+            <Field field="New_ [BNPL encourages me to buy products even if I am not fully prepared financially. ]" selected="True" />
+            <Field field="New_ [BNPL improves my ability to manage short-term financial needs. ]" selected="True" />
+            <Field field="New_ [I feel more confident to purchase items when BNPL is available]" selected="True" />
+            <Field field="New_ [I am aware of the financial risks (e.g., overspending, debt) associated with BNPL services ]" selected="True" />
+            <Field field="New_ [BNPL services are accessible through online shopping platforms]" selected="True" />
+            <Field field="New_ [I find it difficult to keep track of multiple BNPL payment due dates across different platforms.]" selected="True" />
+            <Field field="New_ [Using BNPL reduces the amount of money I have available for my future expenses (e.g., savings, bills). ]" selected="True" />
+            <Field field="New_ [I have experienced financial stress or pressure due to upcoming BNPL payment obligation ]" selected="True" />
+            <Field field="New_ [I am aware of the fees or penalties associated with late BNPL payments.]" selected="True" />
+            <Field field="New_ [I prefer using BNPL over other payment methods such as credit cards or cash. ]" selected="True" />
+            <Field field="New_ [Using BNPL makes me more likely to buy higher-priced items.]" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="702" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>Respondent ID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="894" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="1002" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="&quot;Q&quot; + ToString(MOD([RecordID] - 1, 15) + 1)" field="Q Label" size="1073741823" type="V_WString" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Q Label = "Q" + ToString(MOD([RecordID] - 1, 15) + 1)
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="1122" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Respondent ID" />
+            <Field field="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." />
+            <Field field="Age" />
+            <Field field="Sex" />
+            <Field field="Monthly Allowance/Income Range:" />
+          </GroupFields>
+          <HeaderField field="Q Label" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="Sum" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Respondent ID" source="CrossTab:Group:Sum:" type="Int32" />
+            <Field name="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." size="255" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Age" source="CrossTab:Group:Sum:" type="Double" />
+            <Field name="Sex" size="255" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Monthly Allowance/Income Range:" size="255" source="CrossTab:Group:Sum:" type="V_String" />
+            <Field name="Q1" source="CrossTab:Header:Q Label:Q1:Sum:" type="Double" />
+            <Field name="Q2" source="CrossTab:Header:Q Label:Q2:Sum:" type="Double" />
+            <Field name="Q3" source="CrossTab:Header:Q Label:Q3:Sum:" type="Double" />
+            <Field name="Q4" source="CrossTab:Header:Q Label:Q4:Sum:" type="Double" />
+            <Field name="Q5" source="CrossTab:Header:Q Label:Q5:Sum:" type="Double" />
+            <Field name="Q6" source="CrossTab:Header:Q Label:Q6:Sum:" type="Double" />
+            <Field name="Q7" source="CrossTab:Header:Q Label:Q7:Sum:" type="Double" />
+            <Field name="Q8" source="CrossTab:Header:Q Label:Q8:Sum:" type="Double" />
+            <Field name="Q9" source="CrossTab:Header:Q Label:Q9:Sum:" type="Double" />
+            <Field name="Q10" source="CrossTab:Header:Q Label:Q10:Sum:" type="Double" />
+            <Field name="Q11" source="CrossTab:Header:Q Label:Q11:Sum:" type="Double" />
+            <Field name="Q12" source="CrossTab:Header:Q Label:Q12:Sum:" type="Double" />
+            <Field name="Q13" source="CrossTab:Header:Q Label:Q13:Sum:" type="Double" />
+            <Field name="Q14" source="CrossTab:Header:Q Label:Q14:Sum:" type="Double" />
+            <Field name="Q15" source="CrossTab:Header:Q Label:Q15:Sum:" type="Double" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Respondent ID" order="Asc" />
+            <Field field="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." order="Asc" />
+            <Field field="Age" order="Asc" />
+            <Field field="Sex" order="Asc" />
+            <Field field="Monthly Allowance/Income Range:" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1242" y="246" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\HUAWEI\OneDrive\Documents\Cleaned Buma Dataset.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <MipTenantId />
+            <PreserveFormat>False</PreserveFormat>
+            <MipSensitivity />
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Cleaned Buma Dataset.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="378" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\HUAWEI\Downloads\natividad.txt</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>\t</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>False</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>natividad.txt</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_1" size="254" source="File: C:\Users\HUAWEI\Downloads\natividad.txt" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="33">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="630" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Field_3" />
+            <Field field="Field_4" />
+            <Field field="Field_5" />
+            <Field field="Field_6" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Field_1" selected="False" />
+            <Field field="Field_2" selected="False" />
+            <Field field="Field_3" selected="False" />
+            <Field field="Field_4" selected="False" />
+            <Field field="Field_5" selected="False" />
+            <Field field="Field_6" selected="False" />
+            <Field field="Field_7" selected="True" />
+            <Field field="Field_8" selected="True" />
+            <Field field="Field_9" selected="True" />
+            <Field field="Field_10" selected="True" />
+            <Field field="Field_11" selected="True" />
+            <Field field="Field_12" selected="True" />
+            <Field field="Field_13" selected="True" />
+            <Field field="Field_14" selected="True" />
+            <Field field="Field_15" selected="True" />
+            <Field field="Field_16" selected="True" />
+            <Field field="Field_17" selected="True" />
+            <Field field="Field_18" selected="True" />
+            <Field field="Field_19" selected="True" />
+            <Field field="Field_20" selected="True" />
+            <Field field="Field_21" selected="True" />
+            <Field field="New_Field_7" selected="True" />
+            <Field field="New_Field_8" selected="True" />
+            <Field field="New_Field_9" selected="True" />
+            <Field field="New_Field_10" selected="True" />
+            <Field field="New_Field_11" selected="True" />
+            <Field field="New_Field_12" selected="True" />
+            <Field field="New_Field_13" selected="True" />
+            <Field field="New_Field_14" selected="True" />
+            <Field field="New_Field_15" selected="True" />
+            <Field field="New_Field_16" selected="True" />
+            <Field field="New_Field_17" selected="True" />
+            <Field field="New_Field_18" selected="True" />
+            <Field field="New_Field_19" selected="True" />
+            <Field field="New_Field_20" selected="True" />
+            <Field field="New_Field_21" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="35">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.CrossTab.CrossTab">
+        <Position x="834" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <GroupFields>
+            <Field field="Field_3" />
+            <Field field="Field_4" />
+            <Field field="Field_5" />
+            <Field field="Field_6" />
+          </GroupFields>
+          <HeaderField field="Name" />
+          <DataField field="Value" />
+          <Methods>
+            <Method method="First" />
+            <Separator>,</Separator>
+            <FieldSize value="2048" />
+          </Methods>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Field_3" size="254" source="CrossTab:Group:First:" type="V_String" />
+            <Field name="Field_4" size="254" source="CrossTab:Group:First:" type="V_String" />
+            <Field name="Field_5" size="254" source="CrossTab:Group:First:" type="V_String" />
+            <Field name="Field_6" size="254" source="CrossTab:Group:First:" type="V_String" />
+            <Field name="New_Field_7" size="254" source="CrossTab:Header:Name:New_Field_7:First:" type="V_String" />
+            <Field name="New_Field_8" size="254" source="CrossTab:Header:Name:New_Field_8:First:" type="V_String" />
+            <Field name="New_Field_9" size="254" source="CrossTab:Header:Name:New_Field_9:First:" type="V_String" />
+            <Field name="New_Field_10" size="254" source="CrossTab:Header:Name:New_Field_10:First:" type="V_String" />
+            <Field name="New_Field_11" size="254" source="CrossTab:Header:Name:New_Field_11:First:" type="V_String" />
+            <Field name="New_Field_12" size="254" source="CrossTab:Header:Name:New_Field_12:First:" type="V_String" />
+            <Field name="New_Field_13" size="254" source="CrossTab:Header:Name:New_Field_13:First:" type="V_String" />
+            <Field name="New_Field_14" size="254" source="CrossTab:Header:Name:New_Field_14:First:" type="V_String" />
+            <Field name="New_Field_15" size="254" source="CrossTab:Header:Name:New_Field_15:First:" type="V_String" />
+            <Field name="New_Field_16" size="254" source="CrossTab:Header:Name:New_Field_16:First:" type="V_String" />
+            <Field name="New_Field_17" size="254" source="CrossTab:Header:Name:New_Field_17:First:" type="V_String" />
+            <Field name="New_Field_18" size="254" source="CrossTab:Header:Name:New_Field_18:First:" type="V_String" />
+            <Field name="New_Field_19" size="254" source="CrossTab:Header:Name:New_Field_19:First:" type="V_String" />
+            <Field name="New_Field_20" size="254" source="CrossTab:Header:Name:New_Field_20:First:" type="V_String" />
+            <Field name="New_Field_21" size="254" source="CrossTab:Header:Name:New_Field_21:First:" type="V_String" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Field_3" order="Asc" />
+            <Field field="Field_4" order="Asc" />
+            <Field field="Field_5" order="Asc" />
+            <Field field="Field_6" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxCrossTab" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="486" y="522" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [GENDER]=&quot;Male&quot; &#xA;THEN &quot;1&quot; &#xA;ELSEIF [GENDER]=&quot;Female&quot; &#xA;THEN &quot;2&quot; &#xA;ELSE [GENDER] &#xA;ENDIF" field="GENDER" size="254" type="V_String" enabled="true" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>GENDER = IF [GENDER]="Male" 
+THEN "1" 
+ELSEIF [GENDER]="Female" 
+THEN "2" 
+ELSE ...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1194" y="294" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Respondent ID" selected="False" />
+            <SelectField field="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." selected="False" />
+            <SelectField field="Age" selected="False" />
+            <SelectField field="Monthly Allowance/Income Range:" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="1254" y="402" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="Sex" />
+          </KeyFields>
+          <DataFields>
+            <Field field="Sex" selected="False" />
+            <Field field="Q1" selected="True" />
+            <Field field="Q2" selected="True" />
+            <Field field="Q3" selected="True" />
+            <Field field="Q4" selected="True" />
+            <Field field="Q5" selected="True" />
+            <Field field="Q6" selected="True" />
+            <Field field="Q7" selected="True" />
+            <Field field="Q8" selected="True" />
+            <Field field="Q9" selected="True" />
+            <Field field="Q10" selected="True" />
+            <Field field="Q11" selected="True" />
+            <Field field="Q12" selected="True" />
+            <Field field="Q13" selected="True" />
+            <Field field="Q14" selected="True" />
+            <Field field="Q15" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="20">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiFieldFormula.MultiFieldFormula">
+        <Position x="498" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldType>Text</FieldType>
+          <Fields orderChanged="False">
+            <Field name="Field_7" />
+            <Field name="Field_8" />
+            <Field name="Field_9" />
+            <Field name="Field_10" />
+            <Field name="Field_11" />
+            <Field name="Field_12" />
+            <Field name="Field_13" />
+            <Field name="Field_14" />
+            <Field name="Field_15" />
+            <Field name="Field_16" />
+            <Field name="Field_17" />
+            <Field name="Field_18" />
+            <Field name="Field_19" />
+            <Field name="Field_20" />
+            <Field name="Field_21" />
+            <Field name="*Unknown" />
+            <Field name="Field_1" selected="False" />
+            <Field name="Field_2" selected="False" />
+            <Field name="Field_3" selected="False" />
+            <Field name="Field_4" selected="False" />
+            <Field name="Field_5" selected="False" />
+            <Field name="Field_6" selected="False" />
+            <Field name="Name (Surname, First Name, Middle Initial) Example: Dela Cruz, Juan G." selected="False" />
+            <Field name="Sex" selected="False" />
+            <Field name="Monthly Allowance/Income Range:" selected="False" />
+          </Fields>
+          <NewFieldAddOn>New_</NewFieldAddOn>
+          <NewFieldAddOnPos>Prefix</NewFieldAddOnPos>
+          <CopyOutput value="True" />
+          <Expression>ToNumber(Left([_CurrentField_], 1))</Expression>
+          <ChangeFieldType value="True" />
+          <OutputFieldType type="Double" size="8" scale="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>ToNumber(Left([_CurrentField_], 1))</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiFieldFormula" />
+    </Node>
+    <Node ToolID="27">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="942" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\HUAWEI\OneDrive\Documents\Cleaned Buma Dataset Natividad.xlsx|||Sheet1</File>
+          <Passwords />
+          <Disable>False</Disable>
+          <FormatSpecificOptions>
+            <MipTenantId />
+            <PreserveFormat>False</PreserveFormat>
+            <MipSensitivity />
+            <UNCLocal>False</UNCLocal>
+            <SkipFieldNames>False</SkipFieldNames>
+            <SuppressBlankFile>False</SuppressBlankFile>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Cleaned Buma Dataset Natividad.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="34">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="726" y="390" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Skip</Mode>
+          <N>15</N>
+          <GroupFields orderChanged="False">
+            <Field name="Field_3" />
+            <Field name="Field_4" />
+            <Field name="Field_5" />
+            <Field name="Field_6" />
+          </GroupFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Skip 1st 15 rows</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="378" y="522" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\HUAWEI\Downloads\natividad.txt</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>\t</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>natividad.txt</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="GENDER" size="254" source="File: C:\Users\HUAWEI\Downloads\natividad.txt" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="11" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="17" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="Output" />
+      <Destination ToolID="20" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="35" Connection="Output" />
+      <Destination ToolID="27" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="20" Connection="Output" />
+      <Destination ToolID="33" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="34" Connection="Output" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="36" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>BUMA Business Analytics</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="e0c2684f-13fa-4d57-88b4-46e7eb31daec" />
+      <Telemetry>
+        <PreviousWorkflowId value="8f64fb69-584e-4010-9dc9-40e8fa6a1ce0" />
+        <OriginWorkflowId value="8f64fb69-584e-4010-9dc9-40e8fa6a1ce0" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
